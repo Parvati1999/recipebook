@@ -1,5 +1,5 @@
 body {
-    background-color: #ede9fe; /* light purple */
+    background-color: #ede9fe;
     font-family: Arial, sans-serif;
     color: #333;
     margin: 0;
@@ -15,7 +15,7 @@ body {
   h1 {
     text-align: center;
     font-size: 2.5rem;
-    color: #7c3aed; /* main purple */
+    color: #7c3aed;
     margin-bottom: 30px;
   }
   
@@ -28,7 +28,7 @@ body {
   #searchInput {
     padding: 10px;
     width: 70%;
-    border: 1px solid #c4b5fd; /* soft purple border */
+    border: 1px solid #c4b5fd;
     border-right: none;
     border-radius: 5px 0 0 5px;
     outline: none;
@@ -36,7 +36,7 @@ body {
   
   button {
     padding: 10px 20px;
-    background-color: #7c3aed; /* main purple */
+    background-color: #7c3aed;
     color: white;
     border: none;
     border-radius: 0 5px 5px 0;
@@ -45,7 +45,7 @@ body {
   }
   
   button:hover {
-    background-color: #5b21b6; /* darker purple */
+    background-color: #5b21b6;
   }
   
   #mealContainer {
@@ -83,7 +83,7 @@ body {
     display: block;
     text-align: center;
     padding: 8px 0;
-    background-color: #7c3aed; /* main purple */
+    background-color: #7c3aed;
     color: white;
     border-radius: 5px;
     text-decoration: none;
@@ -91,7 +91,7 @@ body {
   }
   
   .card a:hover {
-    background-color: #5b21b6; /* darker purple */
+    background-color: #5b21b6;
   }
   
   .no-results {
